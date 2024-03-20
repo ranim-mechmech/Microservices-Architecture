@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B382D369-2C4C-4DAD-BD63-F2F5BA148334}|Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\ecommerce-apigateway\\apigateway.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B382D369-2C4C-4DAD-BD63-F2F5BA148334}|Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj|solutionrelative:ecommerce-apigateway\\apigateway.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\ProductService\\Migrations\\20240320224405_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductService\\Migrations\\20240320224405_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29622D8A-FBD4-4394-80AC-CDBD37D89E2F}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\businessobjects\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29622D8A-FBD4-4394-80AC-CDBD37D89E2F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\OrderService\\Migrations\\20240320224211_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderService\\Migrations\\20240320224211_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\CustomerService\\Migrations\\20240320224056_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerService\\Migrations\\20240320224056_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B382D369-2C4C-4DAD-BD63-F2F5BA148334}|Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\ecommerce-apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B382D369-2C4C-4DAD-BD63-F2F5BA148334}|Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj|solutionrelative:ecommerce-apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29622D8A-FBD4-4394-80AC-CDBD37D89E2F}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29622D8A-FBD4-4394-80AC-CDBD37D89E2F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4049842-7E7E-4A3D-BC99-51DD614C8B75}|CustomerService\\CustomerService.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\customerservice\\customerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4049842-7E7E-4A3D-BC99-51DD614C8B75}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\customerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ED2052-37CF-4AA1-BAC5-59D0033F76F5}|OrderService\\OrderService.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46ED2052-37CF-4AA1-BAC5-59D0033F76F5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4049842-7E7E-4A3D-BC99-51DD614C8B75}|CustomerService\\CustomerService.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\customerservice\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4049842-7E7E-4A3D-BC99-51DD614C8B75}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B382D369-2C4C-4DAD-BD63-F2F5BA148334}|Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\ecommerce-apigateway\\ecommerce-apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B382D369-2C4C-4DAD-BD63-F2F5BA148334}|Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj|solutionrelative:ecommerce-apigateway\\ecommerce-apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B382D369-2C4C-4DAD-BD63-F2F5BA148334}|Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj|c:\\users\\ranim mechmech\\downloads\\ecommerce-apigateway\\ecommerce-apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B382D369-2C4C-4DAD-BD63-F2F5BA148334}|Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj|solutionrelative:ecommerce-apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240320224405_test.cs",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\ProductService\\Migrations\\20240320224405_test.cs",
+              "RelativeDocumentMoniker": "ProductService\\Migrations\\20240320224405_test.cs",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\ProductService\\Migrations\\20240320224405_test.cs",
+              "RelativeToolTip": "ProductService\\Migrations\\20240320224405_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:44:06.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\BusinessObjects\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Order.cs",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\BusinessObjects\\Order.cs",
+              "RelativeToolTip": "BusinessObjects\\Order.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:42:49.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240320224211_intial.cs",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\OrderService\\Migrations\\20240320224211_intial.cs",
+              "RelativeDocumentMoniker": "OrderService\\Migrations\\20240320224211_intial.cs",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\OrderService\\Migrations\\20240320224211_intial.cs",
+              "RelativeToolTip": "OrderService\\Migrations\\20240320224211_intial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:42:11.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240320224056_intial.cs",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\CustomerService\\Migrations\\20240320224056_intial.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Migrations\\20240320224056_intial.cs",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\CustomerService\\Migrations\\20240320224056_intial.cs",
+              "RelativeToolTip": "CustomerService\\Migrations\\20240320224056_intial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:40:56.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:37:54.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.csproj",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\CustomerService\\CustomerService.csproj",
+              "RelativeDocumentMoniker": "CustomerService\\CustomerService.csproj",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\CustomerService\\CustomerService.csproj",
+              "RelativeToolTip": "CustomerService\\CustomerService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T14:39:43.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T14:39:30.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\Ecommerce-ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce-ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\Ecommerce-ApiGateway\\Program.cs",
+              "RelativeToolTip": "Ecommerce-ApiGateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:30:35.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "apiGateway.json",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\Ecommerce-ApiGateway\\apiGateway.json",
+              "RelativeDocumentMoniker": "Ecommerce-ApiGateway\\apiGateway.json",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\Ecommerce-ApiGateway\\apiGateway.json",
+              "RelativeToolTip": "Ecommerce-ApiGateway\\apiGateway.json",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAD4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T14:57:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\CustomerService\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\CustomerService\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerService\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:42:01.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ecommerce-ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj",
+              "RelativeDocumentMoniker": "Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj",
+              "RelativeToolTip": "Ecommerce-ApiGateway\\Ecommerce-ApiGateway.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T14:57:04.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\Ecommerce-ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce-ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ranim Mechmech\\Downloads\\Ecommerce-APIGateway\\Ecommerce-ApiGateway\\appsettings.json",
+              "RelativeToolTip": "Ecommerce-ApiGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T15:03:28.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
